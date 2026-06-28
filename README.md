@@ -12,7 +12,7 @@ A Django web application for searching and filtering products by description, ca
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/reubensinha/remarcable_take_home
 cd remarcable
 ```
 
